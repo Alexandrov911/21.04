@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\21.04\21.04\obj\Debug\21.04.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\21.04\21.04\obj\Debug\21.04.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\21.04\21.04\bin\Debug\21.04.exe.config
+C:\Users\Lenovo\source\repos\21.04\21.04\bin\Debug\21.04.exe
+C:\Users\Lenovo\source\repos\21.04\21.04\bin\Debug\21.04.pdb
+C:\Users\Lenovo\source\repos\21.04\21.04\obj\Debug\21.04.exe
+C:\Users\Lenovo\source\repos\21.04\21.04\obj\Debug\21.04.pdb
